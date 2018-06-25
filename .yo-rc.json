@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.0",
+    "libraryName": "react-accordion-wp",
+    "libraryId": "00850f94-12f2-4148-9bd3-5e7f463abe05",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
